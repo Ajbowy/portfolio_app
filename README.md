@@ -1,5 +1,5 @@
 # My Portfolio App
-This is my first personal portfolio website built using **Streamlit** in Python. 
+This is my personal portfolio website built using **Streamlit** in Python. 
 It displays my profile, projects, and contact information - all in a simple, responsive layout. 
 
 ## Features
